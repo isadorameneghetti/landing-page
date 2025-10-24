@@ -1,4 +1,4 @@
-// ===== FORM VALIDATION =====
+// ===== VALIDAÇÃO DE FORMULÁRIO =====
 const contactForm = document.getElementById('contactForm');
         
 contactForm.addEventListener('submit', function(e) {
