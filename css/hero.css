@@ -1,4 +1,4 @@
-/* ===== HERO SECTION ===== */
+/* ===== SEÇÃO PRINCIPAL ===== */
         .hero {
             background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
                         url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800"><rect width="1200" height="800" fill="%23f39c12"/><circle cx="200" cy="150" r="100" fill="%23d35400" opacity="0.2"/><circle cx="1000" cy="300" r="150" fill="%23d35400" opacity="0.2"/><circle cx="300" cy="600" r="120" fill="%23d35400" opacity="0.2"/><circle cx="800" cy="100" r="80" fill="%23d35400" opacity="0.2"/></svg>');
