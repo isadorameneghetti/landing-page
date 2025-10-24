@@ -50,40 +50,6 @@ img {
     display: block;
 }
 
- /* ===== RESET E ESTILOS GLOBAIS ===== */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-html {
-    scroll-behavior: smooth;
-    font-size: 16px;
-}
-
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 1.6;
-    color: var(--dark);
-    background-color: var(--light);
-    overflow-x: hidden;
-}
-
-a {
-    text-decoration: none;
-    color: inherit;
-}
-
-ul {
-    list-style: none;
-}
-
-img {
-    max-width: 100%;
-    display: block;
-}
-
 .container {
     width: 90%;
     max-width: 1200px;
@@ -158,4 +124,3 @@ img {
 .text-center {
     text-align: center;
 }
-
